@@ -1,7 +1,7 @@
 {
-  "name": "threejs-vite-template",
+  "name": "threejs-vibe-coding",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,9 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "three": "^0.162.0"
+    "three": "^0.173.0",
+    "simplex-noise": "^4.0.1"
   },
   "devDependencies": {
-    "vite": "^5.1.4"
+    "vite": "^5.0.8"
   }
-} 
+}
